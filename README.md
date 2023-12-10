@@ -9,24 +9,26 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
-
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primer Parte](https://github.com/AleXCo004/Aleydis-Cort-s/assets/151818638/58c48e71-09af-4482-bf40-0cff76f4dcd7)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](https://github.com/AleXCo004/Aleydis-Cort-s/assets/151818638/8f689542-a086-4bcc-94c0-61a439764948)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](https://github.com/AleXCo004/Aleydis-Cort-s/assets/151818638/514ea313-fe70-4e77-9a96-e27ffc9eaa7e)
+
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](https://github.com/AleXCo004/Aleydis-Cort-s/assets/151818638/ded07077-7b54-4838-a08e-0d4bf19a61a8)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](https://github.com/AleXCo004/Aleydis-Cort-s/assets/151818638/df20dd9a-f463-49ae-859a-d73fad28d230)
+
 
 ## Tecnologías
 
